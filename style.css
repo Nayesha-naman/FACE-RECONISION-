@@ -1,0 +1,23 @@
+body{
+    background-color: lightblue;
+    color:purple;
+}
+
+.heading{
+    width: 50%;
+    font-size: 20px;
+}
+
+.nameofperson,#result_person_name,#result_person_accuracy{
+    font-size: 15px;
+    color: rgb(180, 18, 140);
+
+
+}
+    
+#camera{
+    border:2px dotted black ;
+    height: 300px;
+    width:300px ;
+}
+
